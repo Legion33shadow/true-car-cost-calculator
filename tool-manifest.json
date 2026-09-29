@@ -1,0 +1,14 @@
+{
+  "slug": "true-car-cost-calculator",
+  "type": "calculator_or_tool",
+  "country": "GLOBAL",
+  "category": "transport",
+  "official_sources": [
+    "https://www.energy.gov/",
+    "https://www.fueleconomy.gov/",
+    "https://www.eea.europa.eu/"
+  ],
+  "claim_state": "method_unverified",
+  "phoenix_ready": false,
+  "limitations": "True car cost depends on fuel, insurance, depreciation, taxes and location."
+}

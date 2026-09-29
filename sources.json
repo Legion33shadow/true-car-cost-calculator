@@ -1,0 +1,12 @@
+{
+  "tool": "true-car-cost-calculator",
+  "country": "GLOBAL",
+  "category": "transport",
+  "official_sources": [
+    "https://www.energy.gov/",
+    "https://www.fueleconomy.gov/",
+    "https://www.eea.europa.eu/"
+  ],
+  "last_reviewed": "2026-09-29",
+  "source_status": "official_sources_listed_not_formula_verified"
+}
